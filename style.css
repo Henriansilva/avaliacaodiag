@@ -1,0 +1,14 @@
+body{
+    background: linear-gradient(to bottom, #82cacf, #ffffff);
+    background-repeat: no-repeat;
+    margin: 0;
+    padding: 0;
+
+}
+form{
+    background-color: rgb(220, 247, 241);
+    box-shadow: 0 0 20px rgba(20, 35, 243, 0.705);
+    border-radius: 9px;
+    padding: 20px;
+    
+}
